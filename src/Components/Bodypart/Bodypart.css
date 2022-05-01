@@ -1,6 +1,7 @@
 
 .Bodypart{
     display: flex;
+    flex-direction: column;
     padding:20px;
 
 }
@@ -14,4 +15,5 @@
     height:420px;
     padding:40px;
     padding-top: 15px;
+    
 }
