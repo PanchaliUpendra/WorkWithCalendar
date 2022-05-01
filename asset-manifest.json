@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/WorkWithCalendar/static/css/main.39a3582d.css",
+    "main.css": "/WorkWithCalendar/static/css/main.a40c7694.css",
     "main.js": "/WorkWithCalendar/static/js/main.637a541a.js",
     "static/js/787.5d0ef7a8.chunk.js": "/WorkWithCalendar/static/js/787.5d0ef7a8.chunk.js",
     "static/media/image1.jpg": "/WorkWithCalendar/static/media/image1.41ff00d72b2ab6757e6f.jpg",
@@ -10,12 +10,12 @@
     "static/media/linkin.png": "/WorkWithCalendar/static/media/linkin.241b98ec3a6573fd9094.png",
     "static/media/week.jpeg": "/WorkWithCalendar/static/media/week.52aa7ee68bd24434481a.jpeg",
     "index.html": "/WorkWithCalendar/index.html",
-    "main.39a3582d.css.map": "/WorkWithCalendar/static/css/main.39a3582d.css.map",
+    "main.a40c7694.css.map": "/WorkWithCalendar/static/css/main.a40c7694.css.map",
     "main.637a541a.js.map": "/WorkWithCalendar/static/js/main.637a541a.js.map",
     "787.5d0ef7a8.chunk.js.map": "/WorkWithCalendar/static/js/787.5d0ef7a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39a3582d.css",
+    "static/css/main.a40c7694.css",
     "static/js/main.637a541a.js"
   ]
 }
