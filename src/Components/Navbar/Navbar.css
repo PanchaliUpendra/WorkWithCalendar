@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    background: linear-gradient(90deg, #96d792 1.18%, #2f88dc 100%);
+}
+.head{
+    position: absolute;
+    width:100%;
+    padding: 20px;
+}
+.logo{
+    width:100px;
+    height:100px;
+    padding: 20px;
+
+}

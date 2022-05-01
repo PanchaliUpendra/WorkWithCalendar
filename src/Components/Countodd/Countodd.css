@@ -1,0 +1,31 @@
+.original{
+    padding:20px
+}
+.countodd{
+    background: linear-gradient(90deg, #96d792 1.18%, #2f88dc 100%);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.form1{
+    text-align: center;
+}
+.form2{
+    padding: 10px;
+}
+.prak{
+    padding: 15px 30px;
+    background: linear-gradient(90deg, #9a92d7 1.18%, #2f88dc 100%); /* Green */
+     border: none;
+    color: white;
+    
+    text-align: center;
+     text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 5px;
+}
+.prak:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }

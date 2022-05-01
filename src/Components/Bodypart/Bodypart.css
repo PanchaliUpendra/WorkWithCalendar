@@ -1,0 +1,17 @@
+
+.Bodypart{
+    display: flex;
+    padding:20px;
+
+}
+.intro{
+    background: linear-gradient(90deg, #96d792 1.18%, #2f88dc 100%);
+    width:170px;
+    text-align: center;
+}
+.image1{
+    width: 400px;
+    height:420px;
+    padding:40px;
+    padding-top: 15px;
+}

@@ -1,0 +1,16 @@
+.content{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.heading{
+    background: linear-gradient(90deg, #96d792 1.18%, #2f88dc 100%);
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.weekimg{
+    padding-top: 10px;
+    width: 100%;
+    height:420px;
+}

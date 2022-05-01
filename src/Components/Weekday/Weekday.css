@@ -1,0 +1,35 @@
+.weekhead{
+    background: linear-gradient(90deg, #96d792 1.18%, #2f88dc 100%);
+    padding: 10px;
+
+}
+.weekday{
+    text-align: center;
+}
+.month{
+    padding:10px;
+    font-weight: bold;
+}
+.yearofweek{
+    padding:10px;
+    font-weight: bold;
+}
+.answe{
+    padding: 10px;
+}
+.imgurl{
+    width: 100%;
+    height: auto;
+}
+.imghead{
+    background:linear-gradient(90deg, #96d792 1.18%, #2f88dc 100%); 
+    padding:10px;
+    text-align: left;
+}
+.conclu{
+    text-align: left;
+    padding-left:20px;
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom: 10px;
+}
