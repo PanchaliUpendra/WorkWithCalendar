@@ -11,7 +11,7 @@ function Personal()
             <div className='dev'>
                 <td><a href={"https://github.com/PanchaliUpendra"}><img src={github} className="imgxl"/></a></td>
                 <td><a href={"https://www.linkedin.com/in/panchali-upendra-242387193/"}><img src={linkin} className="imgss"/></a></td>
-                <td><a href={"https://nervous-euler-bcdbb7.netlify.app/"}><img src={wesite} className="imgss"/></a></td>
+                <td><a href={"https://panchaliupendra.netlify.app/"}><img src={wesite} className="imgss"/></a></td>
             </div>
             <p>_____________________________________________________________________________________________</p>
             <p>upendrapanchali2000@gmail.com</p>
